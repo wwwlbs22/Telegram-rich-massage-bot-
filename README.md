@@ -2,9 +2,9 @@
    
 # 🤖 Telegram [Rich Markdown](https://core.telegram.org/bots/api#rich-message-formatting-options) & HTML Bot
 
-<a href="#english-version-us">🇺🇸 English</a> | <a href="#نسخه-فارسی-ir">🇮🇷 فارسی</a>
+<a href="#english-version-us">🇺🇸 English</a> | <a href="#हिंदी">🇮🇳</a>
   
-Live Demo Bot: [@MarkdownRenderBot](https://t.me/MarkdownRenderBot)
+Live Demo Bot: [@Reachmassegeaibot](https://t.me/Reachmassegeaibot)
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-TeleRich-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarknessShade/TeleRich)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
