@@ -12,7 +12,7 @@ Live Demo Bot: [@Reachmassegeaibot](https://t.me/Reachmassegeaibot)
 ![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
 ![Markdown](https://img.shields.io/badge/Markdown-supported-blue?style=flat-square&logo=markdown)
 ![HTML](https://img.shields.io/badge/HTML-supported-orange?style=flat-square&logo=html5)
-![Bilingual](https://img.shields.io/badge/Languages-EN%20%7C%20FA-9cf?style=flat-square)
+![Bilingual](https://img.shields.io/badge/Languages-EN%20%7C%20HI-9cf?style=flat-square)
 ![No Database](https://img.shields.io/badge/Database-none%20needed-lightgrey?style=flat-square)
 
 </div>
